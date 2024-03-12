@@ -1,0 +1,40 @@
+HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>5S Methodology for Chemical Plants</title>
+  <style>
+    /* Add some basic styling here (optional) */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h1, h2, h3 {
+      margin: 10px 0;
+    }
+    ul {
+      list-style: disc;
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>5S Methodology for Chemical Plants: A Guide to Organization and Efficiency</h1>
+  <p>Welcome! This webpage is your one-stop resource for learning about the 5S methodology and its application within chemical plants.</p>
+
+  <h2>What is 5S?</h2>
+  <p>The 5S methodology is a workplace organization system originating in Japan. It focuses on five key principles, each starting with the letter "S":</p>
+  <ul>
+    <li>Sort (Seiri): Eliminate unnecessary items from the workplace.</li>
+    <li>Set in Order (Seiton): Arrange necessary items in a designated and labeled location for easy retrieval.</li>
+    <li>Shine (Seiso): Maintain a clean and hygienic work environment.</li>
+    <li>Standardize (Seiketsu): Establish consistent practices to ensure ongoing organization and cleanliness.</li>
+    <li>Sustain (Shitsuke): Foster a culture of continuous improvement and adherence to 5S principles.</li>
+  </ul>
+
+  <h2>Why is 5S Important in Chemical Plants?</h2>
+  <p>...</p>
+  </body>
+</html>
